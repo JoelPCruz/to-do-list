@@ -1,0 +1,21 @@
+html,
+.container-fluid {
+    background-color: #e8ecf7;
+}
+
+h1 {
+    font-family: 'Pacifico', cursive;
+}
+
+form,
+.list {
+    font-family: 'Comfortaa';
+}
+
+.btn {
+    margin: 12px 12px 12px ;
+}
+
+.list {
+    border: 4px solid #c2b080;
+}
